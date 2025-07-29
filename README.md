@@ -1,7 +1,7 @@
 # 🎮 Unity 2D Game Projects by Thanatat_D
 
 This repository contains **two 2D games** created by me using Unity 2D as part of my self-learning and game development practice journey.
-
+--- The APK files for both games are available in the Releases tab! ---
 ---
 
 ## 🧠 1. Alzheimer
